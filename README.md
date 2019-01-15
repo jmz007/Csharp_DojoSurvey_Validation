@@ -1,9 +1,9 @@
 
-#C# Dojo Survey with Validations
+                 C# Dojo Survey with Validations
 
-#Objectives
-Practice refactoring code
-Continued practice with model validations
+ Objectives
+        Practice refactoring code
+        Continued practice with model validations
 
 Let's update the Dojo Survey assignment one more time, this time adding the appropriate validations.
 
